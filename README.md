@@ -4,9 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-himesh-652171250/)
 
 ## About Me
-- 🔭 I'm currently working on **[Ardent FS](https://github.com/kentuckyfb/Ardent-FS-frontend)**
 - 🌱 I'm currently learning **AI and data engineering for LLMs and medical imaging**
-- 👯 I'm looking to collaborate on **AI for LLMs, medical tech, music generation, and web 3D projects**
+- 👯 Looking to collaborate on **AI for LLMs, medical tech, music generation, and web 3D projects**
 - 💬 Ask me about **full-stack engineering, AI, web development, and game development**
 - 📫 How to reach me: **nathanhimesh5@gmail.com**
 - ⚡ Fun fact: **I'm a big fan of Pokémon and anime**
