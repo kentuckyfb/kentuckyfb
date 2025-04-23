@@ -26,33 +26,33 @@
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kentuckyfb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentuckyfb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kentuckyfb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentuckyfb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kentuckyfb&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kentuckyfb&theme=dark)](https://git.io/streak-stats)
 
 ## 🌟 Featured Projects
 
 <a href="https://github.com/kentuckyfb/Ardent-FS-frontend">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kentuckyfb&repo=Ardent-FS-frontend&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kentuckyfb&repo=Ardent-FS-frontend&theme=dark" />
 </a>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kentuckyfb&theme=darkhub&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kentuckyfb&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Activity Graph
 
-[![kentuckyfb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kentuckyfb&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kentuckyfb&theme=dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <!-- GitHub Metrics -->
-![Metrics](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kentuckyfb&show_icons=true&hide=issues&count_private=true&theme=dark)
+![Metrics](https://metrics.lecoq.io/kentuckyfb?template=classic&config.timezone=America%2FNew_York)
 
 <!-- Profile View Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=kentuckyfb&color=brightgreen&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=kentuckyfb&color=brightgreen)
 
 <!-- GitHub Followers -->
 ![GitHub followers](https://img.shields.io/github/followers/kentuckyfb?style=social)
