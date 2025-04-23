@@ -1,4 +1,4 @@
-# Hi there, I'm kentuckyfb 👋
+# Hi there, I'm Nathan AKA kentucky👋
 
 [![Website](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-git-main-kentuckyfbs-projects.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-himesh-652171250/)
