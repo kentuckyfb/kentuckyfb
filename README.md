@@ -1,63 +1,68 @@
-# Hi there, I'm Nathan AKA kentucky👋
+<div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-git-main-kentuckyfbs-projects.vercel.app)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-himesh-652171250/)
+# Hey, I'm Nathan 👋
+### aka `kentucky`
 
-## About Me
-- 🌱 I'm currently learning **AI and data engineering for LLMs and medical imaging**
-- 👯 Looking to collaborate on **AI for LLMs, medical tech, music generation, and web 3D projects**
-- 💬 Ask me about **full-stack engineering, AI, web development, and game development**
-- 📫 How to reach me: **nathanhimesh5@gmail.com**
-- ⚡ Fun fact: **I'm a big fan of Pokémon and anime**
+**Full-Stack Developer · AI Enthusiast · Creative Technologist**
 
-## 🛠️ Technologies and Tools
+*Building things at the intersection of code, intelligence & creativity.*
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-kentuckyfbs-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-himesh-652171250/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanhimesh5@gmail.com)
 
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kentuckyfb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kentuckyfb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kentuckyfb&theme=dark)](https://git.io/streak-stats)
-
-## 🌟 Featured Projects
-
-<a href="https://github.com/kentuckyfb/Ardent-FS-frontend">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=kentuckyfb&repo=Ardent-FS-frontend&theme=dark" />
-</a>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kentuckyfb&theme=darkhub&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kentuckyfb&theme=dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
 
-<!-- GitHub Metrics -->
-![Metrics](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kentuckyfb&show_icons=true&hide=issues&count_private=true&theme=dark)
+### ⚡ A Little About Me
 
-<!-- Profile View Counter -->
-![Profile views](https://komarev.com/ghpvc/?username=kentuckyfb&color=brightgreen&style=flat)
+```yaml
+focus:      Full-Stack Engineering & AI
+exploring:  LLMs · Medical Imaging · Creative Tech
+interests:  3D Web · Game Dev · Generative Music
+offline:    Pokémon · Anime · Gaming
+```
 
-<!-- GitHub Followers -->
-![GitHub followers](https://img.shields.io/github/followers/kentuckyfb?style=social)
+### 🛠 Tech Stack
 
-<!-- Custom Badges for interests -->
-![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-blue?style=flat-square&logo=tensorflow)
-![Medical Tech](https://img.shields.io/badge/Medical-Tech-green?style=flat-square&logo=health)
-![Game Dev](https://img.shields.io/badge/Game-Developer-purple?style=flat-square&logo=unity)
-![Anime Fan](https://img.shields.io/badge/Anime-Fan-ff69b4?style=flat-square&logo=crunchyroll)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### 📊 GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentuckyfb&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kentuckyfb&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+### 🚀 Featured Project
+
+<div align="center">
+
+[![Ardent FS](https://github-readme-stats.vercel.app/api/pin/?username=kentuckyfb&repo=Ardent-FS-frontend&theme=github_dark&hide_border=true)](https://github.com/kentuckyfb/Ardent-FS-frontend)
+
+</div>
+
+---
+
+<div align="center">
+
+**Always curious. Always building.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=kentuckyfb&style=flat-square&color=555555)
+
+</div>
