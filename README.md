@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hey, I'm Nathan 👋
-### aka `kentucky`
+# Nathan 👋
+### `kentucky`
 
-**Full-Stack Developer · AI Enthusiast · Creative Technologist**
+**Full-Stack Developer • AI Enthusiast • Creative Technologist**
 
-*Building things at the intersection of code, intelligence & creativity.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-kentuckyfbs-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-kentuckyfbs-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-himesh-652171250/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanhimesh5@gmail.com)
 
@@ -15,22 +13,22 @@
 
 ---
 
-### ⚡ A Little About Me
+## ✨ About Me
 
-```yaml
-focus:      Full-Stack Engineering & AI
-exploring:  LLMs · Medical Imaging · Creative Tech
-interests:  3D Web · Game Dev · Generative Music
-offline:    Pokémon · Anime · Gaming
-```
+- 🚀 Building with **Full-Stack Engineering & AI**
+- 🧠 Exploring **LLMs, Medical Imaging, and Creative Tech**
+- 🎮 Into **3D Web, Game Dev, and Generative Music**
+- ⚡ Fun side: **Pokémon, Anime, and Gaming**
 
-### 🛠 Tech Stack
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -39,17 +37,18 @@ offline:    Pokémon · Anime · Gaming
 
 </div>
 
-### 📊 GitHub
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentuckyfb&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kentuckyfb&layout=compact&theme=github_dark&hide_border=true)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kentuckyfb&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentuckyfb&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-### 🚀 Featured Project
+---
+
+## 🚀 Featured Project
 
 <div align="center">
 
@@ -63,6 +62,6 @@ offline:    Pokémon · Anime · Gaming
 
 **Always curious. Always building.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=kentuckyfb&style=flat-square&color=555555)
+![Profile Views](https://komarev.com/ghpvc/?username=kentuckyfb&style=flat-square&color=blueviolet)
 
 </div>
